@@ -1,5 +1,5 @@
 # BSR-Projects
-This project was done in an attempt to see what i can create in a weekend, this is not financial advice, nor should these models be considered particularly accurate for predicting stock prices
+This project was done to see what I could create over a weekend. This is not financial advice, nor should these models be considered particularly accurate for predicting stock prices.
 
 
 
@@ -18,10 +18,10 @@ Trains a linear regression model to predict stock prices
 Monte Carlo Visualization
 
 Risk Frontiers
-
-Sharpe Ratios for stocks
-
-Forecasts stock prices for the next 30 business days
+  Sharpe Ratio 
+  Volatility
+  
+Forecasts stock prices for the next 30,60,90 business days
 
 Visualizes predictions with Matplotlib
 
@@ -35,8 +35,9 @@ Pandas – for data processing
 Scikit-learn – for linear regression modeling
 Matplotlib – for visualization
 NumPy – for numerical computations
-Results and Accuracy
 
+
+Results and Accuracy
 The model's accuracy is evaluated using:
 
 Mean Squared Error (MSE)
